@@ -1,0 +1,7 @@
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\ForeignLanguages\bin\Debug\ForeignLanguages.exe.config
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\ForeignLanguages\bin\Debug\ForeignLanguages.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\ForeignLanguages\bin\Debug\ForeignLanguages.pdb
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\ForeignLanguages\obj\Debug\ForeignLanguages.csprojResolveAssemblyReference.cache
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\ForeignLanguages\obj\Debug\ForeignLanguages.csproj.CoreCompileInputs.cache
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\ForeignLanguages\obj\Debug\ForeignLanguages.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\ForeignLanguages\obj\Debug\ForeignLanguages.pdb

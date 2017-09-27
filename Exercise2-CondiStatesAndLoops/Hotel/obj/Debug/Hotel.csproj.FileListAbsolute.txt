@@ -1,0 +1,7 @@
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\Hotel\bin\Debug\Hotel.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\Hotel\bin\Debug\Hotel.pdb
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\Hotel\obj\Debug\Hotel.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\Hotel\obj\Debug\Hotel.pdb

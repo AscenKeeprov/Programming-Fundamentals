@@ -1,0 +1,6 @@
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\GameOfNumbers\bin\Debug\GameOfNumbers.exe.config
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\GameOfNumbers\bin\Debug\GameOfNumbers.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\GameOfNumbers\bin\Debug\GameOfNumbers.pdb
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\GameOfNumbers\obj\Debug\GameOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\GameOfNumbers\obj\Debug\GameOfNumbers.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\GameOfNumbers\obj\Debug\GameOfNumbers.pdb

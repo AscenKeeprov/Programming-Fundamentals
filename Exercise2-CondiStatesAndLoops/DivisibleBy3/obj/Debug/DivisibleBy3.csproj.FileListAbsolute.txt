@@ -1,0 +1,6 @@
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\DivisibleBy3\bin\Debug\DivisibleBy3.exe.config
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\DivisibleBy3\bin\Debug\DivisibleBy3.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\DivisibleBy3\bin\Debug\DivisibleBy3.pdb
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\DivisibleBy3\obj\Debug\DivisibleBy3.csproj.CoreCompileInputs.cache
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\DivisibleBy3\obj\Debug\DivisibleBy3.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\DivisibleBy3\obj\Debug\DivisibleBy3.pdb

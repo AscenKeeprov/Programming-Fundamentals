@@ -1,0 +1,7 @@
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\IntegersCounter\bin\Debug\IntegersCounter.exe.config
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\IntegersCounter\bin\Debug\IntegersCounter.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\IntegersCounter\bin\Debug\IntegersCounter.pdb
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\IntegersCounter\obj\Debug\IntegersCounter.csprojResolveAssemblyReference.cache
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\IntegersCounter\obj\Debug\IntegersCounter.csproj.CoreCompileInputs.cache
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\IntegersCounter\obj\Debug\IntegersCounter.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\IntegersCounter\obj\Debug\IntegersCounter.pdb
