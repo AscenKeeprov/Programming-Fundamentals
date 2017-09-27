@@ -1,0 +1,6 @@
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.exe.config
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.pdb
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.pdb
