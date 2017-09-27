@@ -1,0 +1,7 @@
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\ProgFundSep2017\Ex1Prob1Greeting\bin\Debug\Ex1Prob1Greeting.exe.config
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\ProgFundSep2017\Ex1Prob1Greeting\bin\Debug\Ex1Prob1Greeting.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\ProgFundSep2017\Ex1Prob1Greeting\bin\Debug\Ex1Prob1Greeting.pdb
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\ProgFundSep2017\Ex1Prob1Greeting\obj\Debug\Ex1Prob1Greeting.csprojResolveAssemblyReference.cache
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\ProgFundSep2017\Ex1Prob1Greeting\obj\Debug\Ex1Prob1Greeting.csproj.CoreCompileInputs.cache
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\ProgFundSep2017\Ex1Prob1Greeting\obj\Debug\Ex1Prob1Greeting.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\ProgFundSep2017\Ex1Prob1Greeting\obj\Debug\Ex1Prob1Greeting.pdb

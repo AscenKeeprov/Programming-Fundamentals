@@ -1,0 +1,6 @@
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-Intro\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-Intro\EmployeeData\bin\Debug\EmployeeData.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-Intro\EmployeeData\bin\Debug\EmployeeData.pdb
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-Intro\EmployeeData\obj\Debug\EmployeeData.csproj.CoreCompileInputs.cache
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-Intro\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-Intro\EmployeeData\obj\Debug\EmployeeData.pdb

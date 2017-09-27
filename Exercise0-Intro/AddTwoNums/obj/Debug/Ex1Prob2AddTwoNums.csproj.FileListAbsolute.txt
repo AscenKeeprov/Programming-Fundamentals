@@ -1,0 +1,6 @@
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\ProgFundSep2017\Ex1Prob2AddTwoNums\bin\Debug\Ex1Prob2AddTwoNums.exe.config
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\ProgFundSep2017\Ex1Prob2AddTwoNums\bin\Debug\Ex1Prob2AddTwoNums.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\ProgFundSep2017\Ex1Prob2AddTwoNums\bin\Debug\Ex1Prob2AddTwoNums.pdb
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\ProgFundSep2017\Ex1Prob2AddTwoNums\obj\Debug\Ex1Prob2AddTwoNums.csproj.CoreCompileInputs.cache
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\ProgFundSep2017\Ex1Prob2AddTwoNums\obj\Debug\Ex1Prob2AddTwoNums.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\ProgFundSep2017\Ex1Prob2AddTwoNums\obj\Debug\Ex1Prob2AddTwoNums.pdb
