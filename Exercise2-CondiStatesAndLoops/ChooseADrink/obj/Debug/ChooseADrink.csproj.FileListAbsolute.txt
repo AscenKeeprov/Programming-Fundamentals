@@ -1,0 +1,6 @@
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\ChooseADrink\bin\Debug\ChooseADrink.exe.config
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\ChooseADrink\bin\Debug\ChooseADrink.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\ChooseADrink\bin\Debug\ChooseADrink.pdb
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\ChooseADrink\obj\Debug\ChooseADrink.csproj.CoreCompileInputs.cache
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\ChooseADrink\obj\Debug\ChooseADrink.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\ChooseADrink\obj\Debug\ChooseADrink.pdb
