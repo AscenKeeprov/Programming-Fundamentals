@@ -1,0 +1,6 @@
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-BasicSyntax\CharacterStats\bin\Debug\CharacterStats.exe.config
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-BasicSyntax\CharacterStats\bin\Debug\CharacterStats.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-BasicSyntax\CharacterStats\bin\Debug\CharacterStats.pdb
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-BasicSyntax\CharacterStats\obj\Debug\CharacterStats.csproj.CoreCompileInputs.cache
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-BasicSyntax\CharacterStats\obj\Debug\CharacterStats.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-BasicSyntax\CharacterStats\obj\Debug\CharacterStats.pdb

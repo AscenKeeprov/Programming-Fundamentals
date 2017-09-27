@@ -1,0 +1,6 @@
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-BasicSyntax\MilesToKilometres\bin\Debug\MilesToKilometres.exe.config
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-BasicSyntax\MilesToKilometres\bin\Debug\MilesToKilometres.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-BasicSyntax\MilesToKilometres\bin\Debug\MilesToKilometres.pdb
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-BasicSyntax\MilesToKilometres\obj\Debug\MilesToKilometres.csproj.CoreCompileInputs.cache
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-BasicSyntax\MilesToKilometres\obj\Debug\MilesToKilometres.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-BasicSyntax\MilesToKilometres\obj\Debug\MilesToKilometres.pdb

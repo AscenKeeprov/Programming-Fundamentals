@@ -1,0 +1,7 @@
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-BasicSyntax\DebitCardNum\bin\Debug\DebitCardNum.exe.config
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-BasicSyntax\DebitCardNum\bin\Debug\DebitCardNum.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-BasicSyntax\DebitCardNum\bin\Debug\DebitCardNum.pdb
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-BasicSyntax\DebitCardNum\obj\Debug\DebitCardNum.csprojResolveAssemblyReference.cache
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-BasicSyntax\DebitCardNum\obj\Debug\DebitCardNum.csproj.CoreCompileInputs.cache
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-BasicSyntax\DebitCardNum\obj\Debug\DebitCardNum.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise1-BasicSyntax\DebitCardNum\obj\Debug\DebitCardNum.pdb
