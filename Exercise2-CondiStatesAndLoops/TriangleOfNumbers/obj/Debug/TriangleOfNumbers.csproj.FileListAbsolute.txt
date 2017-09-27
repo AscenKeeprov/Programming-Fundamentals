@@ -1,0 +1,6 @@
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe.config
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.pdb
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.pdb
