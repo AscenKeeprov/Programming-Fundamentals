@@ -1,0 +1,7 @@
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\MonthPrinter\bin\Debug\MonthPrinter.exe.config
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\MonthPrinter\bin\Debug\MonthPrinter.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\MonthPrinter\bin\Debug\MonthPrinter.pdb
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\MonthPrinter\obj\Debug\MonthPrinter.csprojResolveAssemblyReference.cache
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\MonthPrinter\obj\Debug\MonthPrinter.csproj.CoreCompileInputs.cache
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\MonthPrinter\obj\Debug\MonthPrinter.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\MonthPrinter\obj\Debug\MonthPrinter.pdb

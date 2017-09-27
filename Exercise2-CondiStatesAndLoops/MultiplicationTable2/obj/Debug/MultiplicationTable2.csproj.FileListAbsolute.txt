@@ -1,0 +1,7 @@
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\MultiplicationTable2\bin\Debug\MultiplicationTable2.exe.config
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\MultiplicationTable2\bin\Debug\MultiplicationTable2.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\MultiplicationTable2\bin\Debug\MultiplicationTable2.pdb
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\MultiplicationTable2\obj\Debug\MultiplicationTable2.csprojResolveAssemblyReference.cache
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\MultiplicationTable2\obj\Debug\MultiplicationTable2.csproj.CoreCompileInputs.cache
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\MultiplicationTable2\obj\Debug\MultiplicationTable2.exe
+C:\Users\Avanglion\Documents\Visual Studio 2017\Projects\Exercise2-CondiStatesAndLoops\MultiplicationTable2\obj\Debug\MultiplicationTable2.pdb
